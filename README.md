@@ -18,7 +18,7 @@ netflix-quicksight-project/
 └── manifest.json           # S3 manifest file for QuickSight
 ```
 
-> 🔗 [View Project Repo](#) *(replace `#` with your repo link)*
+> 🔗 [View Project Repo](https://github.com/1suleyman/-Netflix-Data-Visualizations-with-Amazon-QuickSight/tree/main/netflix-quicksight-project)
 
 ---
 
